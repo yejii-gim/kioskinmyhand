@@ -1,1 +1,1 @@
-# kioskinmyhand
+# 내 손안에 키오스크
